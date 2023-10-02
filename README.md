@@ -120,6 +120,7 @@ Fitur yang ada pada kavita adalah
    ![manage_lib](https://github.com/dwputraa0/Kavita/blob/main/kavita/digitalocean.png)
 
 Menggunakan layanan server Digital ocean dengan spesifikasi:
+
 1 GB Memory / 1 Intel vCPU / 35 GB Disk / SGP1 - Ubuntu 22.04 (LTS) x64
 
 
