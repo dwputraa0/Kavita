@@ -117,7 +117,7 @@ Fitur yang ada pada kavita adalah
 
 **Server**
   	
-   ![manage_lib](https://github.com/dwputraa0/Kavita/blob/main/kavita/digitalocean.png)
+   ![manage_lib](https://github.com/dwputraa0/Kavita/blob/main/kavita/digitaloceaan.png)
 
 Menggunakan layanan server Digital ocean dengan spesifikasi:
 
