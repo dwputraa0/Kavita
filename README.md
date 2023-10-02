@@ -32,6 +32,7 @@ your reading collection with your friends and family!
 
 Fitur yang ada pada kavita adalah
 - manage library
+      ![manage_lib](https://github.com/dwputraa0/Kavita/blob/main/kavita/manage_lib.png)
 - Manage User
 - info dan baca file
 - bookmark, add collection and reading list, dan sebagainya
