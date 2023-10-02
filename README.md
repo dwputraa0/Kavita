@@ -115,6 +115,12 @@ Fitur yang ada pada kavita adalah
 
 # Konfigurasi
 
+**Server**
+  	![manage_lib](https://github.com/dwputraa0/Kavita/blob/main/kavita/digitalocean.png)
+Menggunakan layanan server Digital ocean dengan spesifikasi:
+1 GB Memory / 1 Intel vCPU / 35 GB Disk / SGP1 - Ubuntu 22.04 (LTS) x64
+
+
 **Masukkan Buku**
 1. login ke `SSH`, dan buat direktori nama buku yang ingin kita masuki
 
